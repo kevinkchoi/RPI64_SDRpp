@@ -6,7 +6,9 @@ It's based on the excellent SDR++ program by Alexandre Rouma, which can run on s
 This version compiles on RPI 64 bit version.
 
 (1) In your home directory, just create a sub-directory [RTL-SDR] and copy this shell script as your XXX.sh file.
+
 (2) Change its mod: chmod +x XXX.sh
+
 (3) run your shell script: ./XXX.sh
 
 Hope it works for you as well.
