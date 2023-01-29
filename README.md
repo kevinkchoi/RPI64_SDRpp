@@ -12,3 +12,6 @@ This version compiles on RPI 64 bit version.
 (3) run your shell script: ./XXX.sh
 
 Hope it works for you as well.
+
+Many thanks to Alexandre Rouma !!
+Please visit his page for more details: https://github.com/AlexandreRouma/SDRPlusPlus
